@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Articles</title>
+  <style>
+    body {
+      margin: 0px;
+      width: 100vw;
+      height: 100vh;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+    }
+    article:first-of-type {
+      background-color: red;
+    }
+    
+    article:nth-of-type(2) {
+      background-color: yellow;
+    }
+    
+    
+    article:nth-of-type(3) {
+      background-color: blue;
+    }
+    
+    article:last-of-type {
+      background-color: green;
+    }
+    
+  </style>
+</head>
+<body>
+  <article>First</article>
+  <article>Second</article>
+  <article>Third</article>
+  <article>Fourth</article>
+</body>
+</html>
