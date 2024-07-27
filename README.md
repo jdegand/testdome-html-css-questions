@@ -1,4 +1,3 @@
-# testdome-html-css-questions
-Test Dome HTML CSS Interview Questions
+# Test Dome HTML/CSS Interview Questions
 
-[Test Dome](https://www.testdome.com/d/html-css-interview-questions/3)
+[Test Dome](https://www.testdome.com/tests/html-css-online-test/13)
